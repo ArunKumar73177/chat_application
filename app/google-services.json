@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659673039499",
+    "project_id": "asmessenger7",
+    "storage_bucket": "asmessenger7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659673039499:android:46cae88632190f3f958a8e",
+        "android_client_info": {
+          "package_name": "com.example.asmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAt9jo8Rn_cDDDkEQ7lYwKGXbCZClC9r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
