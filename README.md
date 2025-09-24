@@ -37,7 +37,6 @@ Arun Kumar – https://github.com/ArunKumar73177
 
 
 ## Demo Video
-https://github.com/user-attachments/assets/17e4c13d-e0cf-4b66-8f12-7c844f0621a0
 
 [![Watch the video](https://img.youtube.com/vi/-LvgveUDhYw/0.jpg)](https://www.youtube.com/watch?v=-LvgveUDhYw)
 
