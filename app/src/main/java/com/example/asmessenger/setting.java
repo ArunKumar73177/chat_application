@@ -71,7 +71,12 @@ public class setting extends AppCompatActivity {
                     setstatus.setText(status);
                     existingProfileImageUrl = profile;
 
-                    Picasso.get().load(profile).placeholder(R.drawable.photocamera).into(setprofile);
+                    if (profile != null && !profile.isEmpty()) {
+                        Picasso.get().load(profile).placeholder(R.drawable.photocamera).into(setprofile);
+                    } else {
+                        setprofile.setImageResource(R.drawable.photocamera); // default image
+                    }
+
                 }
             }
 
