@@ -34,6 +34,7 @@ It allows multiple clients to connect to a server and exchange messages in real-
 ## 👨‍💻 Author
 
 Arun Kumar – https://github.com/ArunKumar73177
+arunsharma73177@gmail.com
 
 
 ## Demo Video
